@@ -35,6 +35,6 @@
     </dependencies>
 
     <build>
-        <finalName>${project.artifactId}</finalName>
+        <finalName>orderProcessing</finalName>
     </build>
 </project>
